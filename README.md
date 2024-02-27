@@ -4,10 +4,10 @@ A cosmetic company, has been implementing digital advertising across various cha
 Tools: Sql, Excel, Slides
 
 Analysis Steps:
-•	Identify Key Metrics
-•	Collect Data from Database
-•	Analyze Sales Trends
-•	Analyze Campaign Effectiveness by Channel
-•	Campaign Budget Allocation
-•	Campaign Targeting by Demographics and Behavioral
-•	Final recommendations for clients
+•	Identify Key Metrics<br/>
+•	Collect Data from Database<br/> 
+•	Analyze Sales Trends<br/>
+•	Analyze Campaign Effectiveness by Channel<br/>
+•	Campaign Budget Allocation<br/>
+•	Campaign Targeting by Demographics and Behavioral<br/>
+•	Final recommendations for clients<br/>
