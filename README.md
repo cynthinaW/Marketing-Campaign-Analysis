@@ -5,7 +5,7 @@ Tools: Sql, Excel, CSV files, Slides
 
 Analysis Steps:
 •	Identify Key Metrics<br/>
-•	Collect Data from Database<br/> 
+•	Collect Data from Database using SQL queries<br/> 
 •	Analyze Campaign Sales Trends<br/>
 •	Analyze Campaign Effectiveness by Channel<br/>
 •	Campaign Budget Allocation<br/>
