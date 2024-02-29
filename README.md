@@ -17,3 +17,5 @@ Files involved in this project:
 2. sql queries files<br/>
 3. Excel details file<br/>
 4. Final Presentation slides
+
+[Marketing Campaign Presentation.pdf](https://github.com/cynthinaW/Marketing-Campaign-Analysis/files/14454547/Marketing.Campaign.Presentation.pdf)
