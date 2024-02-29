@@ -15,4 +15,5 @@ Analysis Steps:<br/>
 Files involved in this project:
 1. Data files(campaign_performance, data_email_campaign, keyword_data, site_data, user_sales)<br/>
 2. sql queries files<br/>
-3. Final Presentation slides
+3. Excel details file<br/>
+4. Final Presentation slides
