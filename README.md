@@ -13,7 +13,7 @@ Analysis Steps:<br/>
 •	Final recommendations for clients<br/>
 
 Files involved in this project:
-1. Data files(campaign_performance, keyword_data, site_data, user_sales)<br/>
+1. Data files(campaign_performance, site_data, user_sales)<br/>
 2. sql queries files<br/>
 3. Excel details file<br/>
 4. Final Presentation slides
