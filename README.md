@@ -3,7 +3,7 @@ A cosmetic company, has been implementing digital advertising across various cha
 
 ### Tools: Sql, Excel, CSV files, Slides
 
-### Analysis Steps:**<br/>
+### Analysis Steps:<br/>
 •	Identify Key Metrics<br/>
 •	Collect Data from Database using SQL queries<br/> 
 •	Analyze Campaign Sales Trends<br/>
